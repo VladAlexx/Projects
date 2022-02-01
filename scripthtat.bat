@@ -1,1 +1,0 @@
-powershell.exe -executionpolicy remotesigned -File "C:\Users\Administrator\PycharmProjects\pythonProject1\reap.ps1"
